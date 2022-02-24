@@ -1,0 +1,50 @@
+[
+    {
+        "model": "products.category",
+        "pk": 1,
+        "fields": {
+            "name": "clothing",
+            "friendly_name": "Clothing"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 2,
+        "fields": {
+            "name": "footwear",
+            "friendly_name": "Footwear"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 3,
+        "fields": {
+            "name": "activewear",
+            "friendly_name": "Activewear"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 4,
+        "fields": {
+            "name": "electronics",
+            "friendly_name": "Electronics"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 5,
+        "fields": {
+            "name": "homeware",
+            "friendly_name": "Homeware"
+        }
+    },
+    {
+        "model": "products.category",
+        "pk": 6,
+        "fields": {
+            "name": "food",
+            "friendly_name": "Food & Drink"
+        }
+    }
+]
